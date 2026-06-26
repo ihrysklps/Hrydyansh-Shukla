@@ -7,3 +7,7 @@ Computer Science Student | AI & ML | MERN Stack Developer
 <p>
 <img src="https://skillicons.dev/icons?i=c,c++,java,css3,html,python,react,nodejs,mongodb,postgres,git,docker,aws,firebase,vscode" />
 </p>
+
+<h3 align="center">
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+</h3>
