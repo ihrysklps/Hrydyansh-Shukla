@@ -70,15 +70,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrydyansh-shukla-b84589307/) 
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihrysklps&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihrysklps&theme=tokyonight&hide_border=true" width="49%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihrysklps&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihrysklps&theme=tokyo-night&hide_border=true"/>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ihrysklps&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ihrysklps&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ihrysklps&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
